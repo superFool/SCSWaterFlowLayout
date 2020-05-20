@@ -3,7 +3,7 @@
 //  WaterFlowDemo
 //
 //  Created by chaoshuai song on 2019/9/25.
-//  Copyright © 2019 com.zczy. All rights reserved.
+//  Copyright © 2019 com.scs. All rights reserved.
 //
 
 #import "ViewController.h"
